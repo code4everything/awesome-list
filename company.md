@@ -6,3 +6,8 @@
 |美团点评|[http://tech.meituan.com](http://tech.meituan.com)|[meituan-dianping](https://github.com/meituan-dianping)|[https://zhaopin.meituan.com/](https://zhaopin.meituan.com/)|
 |百度|[http://www.baidu.com](http://www.baidu.com)|[baidu](https://github.com/baidu)|[https://talent.baidu.com/external/baidu/](https://talent.baidu.com/external/baidu/)|
 |奇虎360|[http://www.360.cn](http://www.360.cn)|[qihoo360](https://github.com/qihoo360)|[http://hr.360.cn/](http://hr.360.cn/)|
+|华为|[http://developer.huawei.com/cn/](http://developer.huawei.com/cn/)|[huawei](https://github.com/Huawei)|[http://career.huawei.com/](http://career.huawei.com/)|
+|携程|[http://www.ctrip.com](http://www.ctrip.com)|[ctripcorp](https://github.com/ctripcorp)|[http://campus.ctrip.com/](http://campus.ctrip.com/)|
+|小米运维部|[http://noops.me/](http://noops.me/)|[xiaomi-sa](https://github.com/xiaomi-sa)|[http://hr.xiaomi.com/job/list](http://hr.xiaomi.com/job/list)|
+|Android应用开源社区|[http://www.micode.net/](http://www.micode.net/)|[micode](https://github.com/MiCode)||
+|饿了么前端|[https://fe.ele.me](https://fe.ele.me)|[elemefe](https://github.com/ElemeFE)|[https://campus.ele.me/jobs/](https://campus.ele.me/jobs/)|
