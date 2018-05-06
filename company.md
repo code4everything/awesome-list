@@ -1,6 +1,6 @@
 |名称|官网|Github|招聘|
 |--|--|--|--|
-|石墨|[https://shimo.im](https://shimo.im)|[shimohq](https://github.com/shimohq)|[https://shimo.im/doc/G3ckHEVF3f4qANHk](https://shimo.im/doc/G3ckHEVF3f4qANHk)|
+|石墨|[https://shimo.im](https://shimo.im)|[shimohq](https://github.com/shimohq)|[https://app.mokahr.com/apply/shimo](https://app.mokahr.com/apply/shimo)|
 |阿里巴巴|[http://www.alibaba.com](http://www.alibaba.com)|[alibaba](https://github.com/alibaba)|[https://job.alibaba.com/zhaopin/](https://job.alibaba.com/zhaopin/)|
 |腾讯|[http://www.tencent.com](http://www.tencent.com)|[tencent](https://github.com/tencent)|[https://hr.tencent.com/](https://hr.tencent.com/)|
 |美团点评|[http://tech.meituan.com](http://tech.meituan.com)|[meituan-dianping](https://github.com/meituan-dianping)|[https://zhaopin.meituan.com/](https://zhaopin.meituan.com/)|
@@ -11,3 +11,21 @@
 |小米运维部|[http://noops.me/](http://noops.me/)|[xiaomi-sa](https://github.com/xiaomi-sa)|[http://hr.xiaomi.com/job/list](http://hr.xiaomi.com/job/list)|
 |Android应用开源社区|[http://www.micode.net/](http://www.micode.net/)|[micode](https://github.com/MiCode)||
 |饿了么前端|[https://fe.ele.me](https://fe.ele.me)|[elemefe](https://github.com/ElemeFE)|[https://campus.ele.me/jobs/](https://campus.ele.me/jobs/)|
+|掘金|[https://xitu.io/](https://xitu.io/)|[xitu](https://github.com/xitu)|[https://xitu.io/jobs](https://xitu.io/jobs)|
+|微信|[https://weixin.qq.com/](https://weixin.qq.com/)|[weixin](https://github.com/weixin)||
+|支付宝|[https://www.antfin.com/](https://www.antfin.com/)|[alipay](https://github.com/alipay)||
+|Android应用开源社区|[http://www.micode.net](http://www.micode.net)|[micode](https://github.com/MiCode/)||
+|高德|[]|[amapapi](https://github.com/amapapi)||
+|知乎|[http://www.zhihu.com](http://www.zhihu.com)|[zhihu](https://github.com/zhihu)|[http://zhihu.zhiye.com/](http://zhihu.zhiye.com/)|
+|YouTube|[https://developers.google.com/youtube/](https://developers.google.com/youtube/)|[youtube](https://github.com/youtube)||
+|网易|[http://code.netease.com/](http://code.netease.com/)|[netease](https://github.com/netease)|[https://hr.163.com/](https://hr.163.com/)|
+|Google|[https://opensource.google.com/](https://opensource.google.com/)|[google](https://github.com/google)||
+|Telegram Desktop|[https://desktop.telegram.org](https://desktop.telegram.org)|[telegramdesktop](https://github.com/telegramdesktop)||
+|Microsoft|[https://opensource.microsoft.com/](https://opensource.microsoft.com/)|[microsoft](https://github.com/microsoft)||
+|Apple|[https://developer.apple.com/opensource/](https://developer.apple.com/opensource/)|[apple](https://github.com/apple)||
+|Fackbook|[https://code.facebook.com/projects/](https://code.facebook.com/projects/)|[facebook](https://github.com/facebook)||
+|Twitter|[https://twitter.github.io](https://twitter.github.io)|[twitter](https://github.com/twitter)||
+|bilibili|[http://www.bilibili.com](http://www.bilibili.com)|[bilibili](https://github.com/bilibili)|[https://www.bilibili.com/html/join-list.html](https://www.bilibili.com/html/join-list.html)|
+|Lastpass|[https://lastpass.com/](https://lastpass.com/)|[lastpass](https://github.com/lastpass)||
+|Spotify|[https://spotify.github.io/](https://spotify.github.io/)|[spotify](https://github.com/spotify)||
+|Quora|[https://www.quora.com/](https://www.quora.com/)|[quora](https://github.com/quora)||
