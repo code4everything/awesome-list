@@ -15,7 +15,7 @@
 |微信|[https://weixin.qq.com/](https://weixin.qq.com/)|[weixin](https://github.com/weixin)||
 |支付宝|[https://www.antfin.com/](https://www.antfin.com/)|[alipay](https://github.com/alipay)||
 |Android应用开源社区|[http://www.micode.net](http://www.micode.net)|[micode](https://github.com/MiCode/)||
-|高德|[]|[amapapi](https://github.com/amapapi)||
+|高德|[http://www.autonavi.com/](http://www.autonavi.com/)|[amapapi](https://github.com/amapapi)||
 |知乎|[http://www.zhihu.com](http://www.zhihu.com)|[zhihu](https://github.com/zhihu)|[http://zhihu.zhiye.com/](http://zhihu.zhiye.com/)|
 |YouTube|[https://developers.google.com/youtube/](https://developers.google.com/youtube/)|[youtube](https://github.com/youtube)||
 |网易|[http://code.netease.com/](http://code.netease.com/)|[netease](https://github.com/netease)|[https://hr.163.com/](https://hr.163.com/)|
