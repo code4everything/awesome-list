@@ -29,3 +29,4 @@
 |Lastpass|[https://lastpass.com/](https://lastpass.com/)|[lastpass](https://github.com/lastpass)||
 |Spotify|[https://spotify.github.io/](https://spotify.github.io/)|[spotify](https://github.com/spotify)||
 |Quora|[https://www.quora.com/](https://www.quora.com/)|[quora](https://github.com/quora)||
+|七牛云|[https://developer.qiniu.com/](https://developer.qiniu.com/)|[qiniu](https://github.com/qiniu/)|[https://career.qiniu.com/](https://career.qiniu.com/)|
