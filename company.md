@@ -30,3 +30,6 @@
 |Spotify|[https://spotify.github.io/](https://spotify.github.io/)|[spotify](https://github.com/spotify)||
 |Quora|[https://www.quora.com/](https://www.quora.com/)|[quora](https://github.com/quora)||
 |七牛云|[https://developer.qiniu.com/](https://developer.qiniu.com/)|[qiniu](https://github.com/qiniu/)|[https://career.qiniu.com/](https://career.qiniu.com/)|
+|elastic|[https://www.elastic.co](https://www.elastic.co)|[elastic](https://github.com/elastic)||
+|apple|[https://developer.apple.com/opensource](https://developer.apple.com/opensource)|[apple](https://github.com/apple)|[https://www.apple.com/jobs/cn/](https://www.apple.com/jobs/cn/)|
+|wox|[https://github.com/organizations/Wox-launcher](https://github.com/organizations/Wox-launcher)|[Wox-launcher](https://github.com/Wox-launcher)||
