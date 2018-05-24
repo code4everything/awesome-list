@@ -33,3 +33,4 @@
 |有赞|[https://tech.youzan.com](https://tech.youzan.com)|[youzan](https://github.com/youzan)|[https://job.youzan.com/](https://job.youzan.com/)|
 |美丽联合集团|[http://www.meili-inc.com](http://www.meili-inc.com)|[meili](https://github.com/meili)|[http://job.mogujie.com](http://job.mogujie.com)|
 |腾讯云|[https://cloud.tencent.com](https://cloud.tencent.com)|[tencentyun](https://github.com/tencentyun)|[https://hr.tencent.com/position.php?keywords=%E8%85%BE%E8%AE%AF%E4%BA%91](https://hr.tencent.com/position.php?keywords=%E8%85%BE%E8%AE%AF%E4%BA%91)|
+|Knownsec|[https://www.knownsec.com](https://www.knownsec.com)|[knownsec](https://github.com/knownsec)|[https://www.knownsec.com/#/jobs](https://www.knownsec.com/#/jobs)|
