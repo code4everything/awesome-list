@@ -14,7 +14,6 @@
 |掘金|[https://xitu.io/](https://xitu.io/)|[xitu](https://github.com/xitu)|[https://xitu.io/jobs](https://xitu.io/jobs)|
 |微信|[https://weixin.qq.com/](https://weixin.qq.com/)|[weixin](https://github.com/weixin)||
 |支付宝|[https://www.antfin.com/](https://www.antfin.com/)|[alipay](https://github.com/alipay)||
-|Android应用开源社区|[http://www.micode.net](http://www.micode.net)|[micode](https://github.com/MiCode/)||
 |高德|[http://www.autonavi.com/](http://www.autonavi.com/)|[amapapi](https://github.com/amapapi)||
 |知乎|[http://www.zhihu.com](http://www.zhihu.com)|[zhihu](https://github.com/zhihu)|[http://zhihu.zhiye.com/](http://zhihu.zhiye.com/)|
 |YouTube|[https://developers.google.com/youtube/](https://developers.google.com/youtube/)|[youtube](https://github.com/youtube)||
@@ -30,9 +29,7 @@
 |Spotify|[https://spotify.github.io/](https://spotify.github.io/)|[spotify](https://github.com/spotify)||
 |Quora|[https://www.quora.com/](https://www.quora.com/)|[quora](https://github.com/quora)||
 |七牛云|[https://developer.qiniu.com/](https://developer.qiniu.com/)|[qiniu](https://github.com/qiniu/)|[https://career.qiniu.com/](https://career.qiniu.com/)|
-|elastic|[https://www.elastic.co](https://www.elastic.co)|[elastic](https://github.com/elastic)||
 |apple|[https://developer.apple.com/opensource](https://developer.apple.com/opensource)|[apple](https://github.com/apple)|[https://www.apple.com/jobs/cn/](https://www.apple.com/jobs/cn/)|
-|wox|[https://github.com/organizations/Wox-launcher](https://github.com/organizations/Wox-launcher)|[Wox-launcher](https://github.com/Wox-launcher)||
 |有赞|[https://tech.youzan.com](https://tech.youzan.com)|[youzan](https://github.com/youzan)|[https://job.youzan.com/](https://job.youzan.com/)|
 |美丽联合集团|[http://www.meili-inc.com](http://www.meili-inc.com)|[meili](https://github.com/meili)|[http://job.mogujie.com](http://job.mogujie.com)|
 |腾讯云|[https://cloud.tencent.com](https://cloud.tencent.com)|[tencentyun](https://github.com/tencentyun)|[https://hr.tencent.com/position.php?keywords=%E8%85%BE%E8%AE%AF%E4%BA%91](https://hr.tencent.com/position.php?keywords=%E8%85%BE%E8%AE%AF%E4%BA%91)|
