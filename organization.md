@@ -12,3 +12,5 @@
 |腾讯 AlloyTeam||[http://www.alloyteam.com/](http://www.alloyteam.com/)|[alloyteam](https://github.com/alloyteam)|
 |Baidu FEX team||[http://fex.baidu.com/](http://fex.baidu.com/)|[fex](https://github.com/fex-team/)|
 |ChimeeJS|Chimee for working with video on the web, as an HTML5 video player|[http://chimee.org/](http://chimee.org/)|[Chimeejs](https://github.com/Chimeejs)|
+|Gitea|Git with a cup of tea|[https://gitea.io](https://gitea.io)|[go-gitea](https://github.com/go-gitea)|
+|go-xorm||[http://xorm.io](http://xorm.io)|[go-xorm](https://github.com/go-xorm)|
