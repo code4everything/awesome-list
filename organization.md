@@ -14,3 +14,4 @@
 |ChimeeJS|Chimee for working with video on the web, as an HTML5 video player|[http://chimee.org/](http://chimee.org/)|[Chimeejs](https://github.com/Chimeejs)|
 |Gitea|Git with a cup of tea|[https://gitea.io](https://gitea.io)|[go-gitea](https://github.com/go-gitea)|
 |go-xorm||[http://xorm.io](http://xorm.io)|[go-xorm](https://github.com/go-xorm)|
+|The Netty Project|Opening the future of network programming since 2001|[http://netty.io/](http://netty.io/)|[netty](https://github.com/netty)|
