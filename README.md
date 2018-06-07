@@ -10,4 +10,4 @@
 
 - [破解](/crack.md)
 
-**有不妥当的地方，还请大家指出，欢迎 `Pull Request` 和 `Issue` **
+**有不妥当的地方，还请大家指出，欢迎 `Pull Request` 和 `Issue`**
