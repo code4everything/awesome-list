@@ -21,3 +21,4 @@
 |[InfoQ](https://www.infoq.com/)|Facilitating the spread of knowledge and innovation in professional software development|
 |[看雪学院](https://www.pediy.com/)|中国安全界的黄埔军校|
 |[Harttle Land](https://harttle.land/)|分享技术，共建开放平台|
+|[并发编程网](http://ifeve.com/)|让天下没有难学的技术|
