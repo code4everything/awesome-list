@@ -1,1 +1,5 @@
 - [知道创宇 Seebug 漏洞平台 - 洞悉漏洞，让你掌握第一手漏洞情报！](https://www.seebug.org/)
+- [ITEYE](http://www.iteye.com/)
+- [V2EX](https://www.v2ex.com/)
+- [developerWorks](https://www.ibm.com/developerworks/cn/)
+- [七月在线](https://ask.julyedu.com/)
