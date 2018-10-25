@@ -16,3 +16,4 @@
 |go-xorm||[http://xorm.io](http://xorm.io)|[go-xorm](https://github.com/go-xorm)|
 |The Netty Project|Opening the future of network programming since 2001|[http://netty.io/](http://netty.io/)|[netty](https://github.com/netty)|
 |The Apache Software Foundation||[http://www.apache.org](http://www.apache.org)|[apache](https://github.com/apache)|
+|XiaoMi|China|[https://www.mi.com/](https://www.mi.com/)|[XiaoMi](https://github.com/XiaoMi)|
